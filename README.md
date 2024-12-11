@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm Clifford Tan, a passionate Computer Science st
 
 📫 Reach me at: cliffordtanek@gmail.com
 
-📝 Check out my [Linkedin](www.linkedin.com/in/cliffordtanek) profile.
+📝 Check out my [Linkedin](http://www.linkedin.com/in/cliffordtanek) profile.
 
-🌐 See my [portfolio](www.cliffordtanek.weebly.com).
+🌐 See my [portfolio](http://cliffordtanek.weebly.com).
 
 #
 Thanks for visiting my profile! Feel free to check out my repositories or drop me a message.
