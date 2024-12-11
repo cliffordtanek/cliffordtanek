@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**cliffordtanek/cliffordtanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Clifford Tan, a passionate Computer Science student and aspiring Software Feveloper with a keen interest in building performant systems, game engines, and innovative AI solutions.
 
-Here are some ideas to get you started:
+## 🚀 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a 3rd Year Student in Digipen - Singapore Institute of Technology.
+
+- 🌱 I’m currently learning about Algorithm Analysis, Software Engineering, Probability and Statistic, and Technical Design Methods.
+
+- 🎮 I love designing immersive gaming experiences with AI-driven mechanics and exploring procedural content generation.
+
+## 📜 **Achievements**:
+
+- Awarded the Mighty Jaxx Scholarship for the Academic Year 2023/2024.
+
+- On the Provost List for the Academic Years 2022/2023 and 2023/2024.
+
+## 🤝 **Let’s Connect**
+
+📫 Reach me at: cliffordtanek@gmail.com
+
+📝 Check out my [Linkedin](www.linkedin.com/in/cliffordtanek) profile.
+
+🌐 See my [portfolio](www.cliffordtanek.weebly.com).
+
+#
+Thanks for visiting my profile! Feel free to check out my repositories or drop me a message.
