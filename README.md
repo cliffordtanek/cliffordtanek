@@ -10,11 +10,6 @@ Welcome to my GitHub profile! I'm Clifford Tan, a passionate Computer Science st
 
 - 🎮 I love designing immersive gaming experiences with AI-driven mechanics and exploring procedural content generation.
 
-## 📜 **Achievements**:
-
-- Awarded the Mighty Jaxx Scholarship for the Academic Year 2023/2024.
-
-- On the Provost List for the Academic Years 2022/2023 and 2023/2024.
 
 ## 🤝 **Let’s Connect**
 
