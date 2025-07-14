@@ -4,10 +4,9 @@ Welcome to my GitHub profile! I'm Clifford Tan, a passionate Computer Science st
 
 ## 🚀 **About Me**
 
-- 🔭 I’m currently a 3rd Year Student in Digipen - Singapore Institute of Technology.
+- 🔭 I’m currently a 4th Year Student in Digipen - Singapore Institute of Technology.
 
-- 🌱 I’m currently learning about Algorithm Analysis, Software Engineering, Probability and Statistic, and Technical Design Methods.
-
+- 🌱 I’m currently working at Urban Redevelopment Authority (URA) as a software intern.
 - 🎮 I love designing immersive gaming experiences with AI-driven mechanics and exploring procedural content generation.
 
 
